@@ -1,0 +1,6 @@
+1|2|3|4|5
+nume album1|copyright1|cod album1|data1|format1
+nume album2|copyright2|cod album2|data2|format2
+nume album4|copyright4|cod album4|data4|format4
+nume album5|copyright5|cod album5|data5|format5
+nume album6|copyright6|cod album6|data6|format6

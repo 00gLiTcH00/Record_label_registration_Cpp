@@ -1,0 +1,6 @@
+6|7|8|9|3|10
+nume si prenume1|cnp1|adresa1|telefon1|cod album1|nume instrument1
+nume si prenume2|cnp2|adresa2|telefon2|cod album2|nume instrument2
+nume si prenume4|cnp4|adresa4|telefon4|cod album4|nume instrument4
+nume si prenume5|cnp5|adresa5|telefon5|cod album5|nume instrument5
+nume si prenume6|cnp6|adresa6|telefon6|cod album6|nume instrument6

@@ -1,0 +1,6 @@
+nume album1|copyright1|cod album1|data1|format1|nume instrument1|numar identificare1|cheie muzicala1|nume si prenume1|cnp1|adresa1|telefon1
+nume album2|copyright2|cod album2|data2|format2|nume instrument2|numar identificare2|cheie muzicala2|nume si prenume2|cnp2|adresa2|telefon2
+nume album3|copyright3|cod album3|data3|format3|nume instrument3|numar identificare3|cheie muzicala3|nume si prenume3|cnp3|adresa3|telefon3
+nume album4|copyright4|cod album4|data4|format4|nume instrument4|numar identificare4|cheie muzicala4|nume si prenume4|cnp4|adresa4|telefon4
+nume album5|copyright5|cod album5|data5|format5|nume instrument5|numar identificare5|cheie muzicala5|nume si prenume5|cnp5|adresa5|telefon5
+nume album6|copyright6|cod album6|data6|format6|nume instrument6|numar identificare6|cheie muzicala6|nume si prenume6|cnp6|adresa6|telefon6

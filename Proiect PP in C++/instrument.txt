@@ -1,0 +1,6 @@
+10|11|12
+nume instrument1|numar identificare1|cheie muzicala1
+nume instrument2|numar identificare2|cheie muzicala2
+nume instrument4|numar identificare4|cheie muzicala4
+nume instrument5|numar identificare5|cheie muzicala5
+nume instrument6|numar identificare6|do major
